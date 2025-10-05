@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # C-Ping
 
 An implementation of the classic `ping` utility written in **C from scratch**.  
